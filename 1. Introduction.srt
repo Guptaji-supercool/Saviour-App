@@ -1,0 +1,51 @@
+1
+00:00:00,540 --> 00:00:04,110
+Hello and welcome to the permanent data storage section.
+
+2
+00:00:04,110 --> 00:00:06,080
+I know that's a little bit of a media title.
+
+3
+00:00:06,080 --> 00:00:09,540
+Their data storage section it sounds a little bit more intense than it is.
+
+4
+00:00:09,630 --> 00:00:14,900
+The basic idea here is we've been building some awesome apps for example that favorite locations out
+
+5
+00:00:14,910 --> 00:00:20,160
+but we haven't been able to save any information as soon as we close the app bring a back up it's like
+
+6
+00:00:20,700 --> 00:00:25,260
+we're here for the very first time and that's not ideal for most of the apps that we're going to build.
+
+7
+00:00:25,260 --> 00:00:29,880
+So in this section you're going to learn how do you store and save information we're going to learn
+
+8
+00:00:29,880 --> 00:00:33,510
+how to do some of it in a little bit of a local easy to use situation.
+
+9
+00:00:33,510 --> 00:00:38,250
+But also we're going to learn how to work with a full blown QOL database now don't worry if you don't
+
+10
+00:00:38,250 --> 00:00:42,660
+know that is maybe you've heard about it before but you're going to learn a little bit about the programming
+
+11
+00:00:42,660 --> 00:00:43,490
+language called.
+
+12
+00:00:43,490 --> 00:00:48,150
+Q Well I guess it's not technically a programming language but we'll dive into that too.
+
+13
+00:00:48,180 --> 00:00:51,030
+But go ahead and enjoy permanent data storage.
